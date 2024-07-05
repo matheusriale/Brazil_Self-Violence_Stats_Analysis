@@ -1,4 +1,4 @@
-Data collected from https://www.ipea.gov.br/atlasviolencia/filtros-series/16/suicidios, a known trustable source of brazilian violence data (their current site is under maintenance, you can check out their wiki page https://pt.wikipedia.org/wiki/Instituto_de_Pesquisa_Econ%C3%B4mica_Aplicada).
+Data collected from https://www.ipea.gov.br/atlasviolencia/filtros-series/16/suicidios, a known trustable source of brazilian violence data. Also you can check out their wikipage https://pt.wikipedia.org/wiki/Instituto_de_Pesquisa_Econ%C3%B4mica_Aplicada .
 
 Dashboard made to trying to emphasize the importance of mental health care in our society. 'Atlas da Violencia' does not have post-covid data, which really needs to be checked out since there may have been an abrupt increase in the number of cases due to the various stresses and dangers surrounding mental health. 
 
